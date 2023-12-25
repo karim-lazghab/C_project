@@ -433,18 +433,18 @@ int main() {
                 break;
             case 10:
                 if(!admin){
-                    printf("Cette commande est pas accessible pour vous, \nessayer de logger comme administrateur\n");
+                    printf("Cette commande est pas accessible pour vous, \n essayer de logger comme administrateur\n");
                     goto skip;
                 }
                 debug();
                 break;
             case 11:
                 if(!admin){
-                    printf("Cette commande est pas accessible pour vous,\nessayer de logger comme administrateur.\n");
+                    printf("Cette commande est pas accessible pour vous,\n essayer de logger comme administrateur.\n");
                     goto skip;
                 }
                 admin^=1;
-                printf("plus un admin\n");
+                printf("plus un administrateur\n");
                 break;
             default:
                 save();
