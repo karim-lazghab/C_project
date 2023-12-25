@@ -1,4 +1,4 @@
-E-Election est une application de gestion d'élections écrite en langage C. Il utilise des structures de données pour stocker des informations sur les administrateurs, les candidats et les élections, ainsi que des fichiers pour sauvegarder et charger les données depuis et vers des fichiers texte.
+E-Election est une application de gestion d'élections écrite en langage C. le code utilise des structures de données pour stocker des informations sur les administrateurs, les candidats et les élections, ainsi que des fichiers pour sauvegarder et charger les données depuis et vers des fichiers texte.
 
 Voici une description des structures principales :
 
