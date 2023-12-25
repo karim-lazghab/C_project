@@ -6,6 +6,7 @@ Structures de données :
 Candidat :
 
 Contient les informations d'un candidat : nom, prénom, âge et nombre de votes reçus.
+
 Election :
 
 Représente une élection avec un nom et une liste de candidats. Elle contient également le nombre total de candidats.
